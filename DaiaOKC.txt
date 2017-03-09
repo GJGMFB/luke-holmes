@@ -1,0 +1,3 @@
+ - Player Controls -- by Mon 11pm (3hrs) 
+ - Player Character and NPC models and textures -- by Tues (3hrs)
+ - Additional work on scenes -- by Wed (2hrs)
