@@ -1,4 +1,5 @@
  - Find/build/modify models for overworld 1 -- by Mon 11pm (3hrs) 
- - Player Character and NPC models and textures -- by Tues (3hrs)
- - Story plot and character dialogue for level 1 -- by Wed (2hrs)
+ - Player Character and NPC animation(?) -- by Wed(3.30) (4hrs)
+ - Story plot and character dialogue for level 1 & 2 -- (4hrs)
+ - NPC finite state machine -- by Thurs (2hrs)
 
