@@ -11,6 +11,8 @@ public class enemySpawner : MonoBehaviour {
 	public float maxSpeed;
 	public float incSpeedAfter;
 	public float destroyAfterPos;
+	public GameObject gameOverText;
+	public GameObject fade;
 
 	// Use this for initialization
 	void Start () {
@@ -28,6 +30,8 @@ public class enemySpawner : MonoBehaviour {
 		instance.name = "enemy";
 		var script = instance.GetComponent<enemy>(); // enemy is the name of the script enemy.cs
 		script.destroyAtPos = destroyAfterPos;
+		script.ui = gameOverText;
+		script.fade = fade;
 
 		Rigidbody rb = instance.GetComponent<Rigidbody> ();
 		instance.transform.position = new Vector3 (spawnWidth, Random.Range (transform.position.y, transform.position.y + spawnHeight));

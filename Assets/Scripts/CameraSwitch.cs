@@ -30,6 +30,7 @@ public class CameraSwitch : MonoBehaviour {
 		if (npcDialogue.clicked == true) {
 			main.SetActive (true);
 			npc.SetActive (false);
+			npcDialogue.clicked = false; //set back to false 
 		}
 
 	}
