@@ -16,12 +16,15 @@ public class enemy : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		transform.Rotate (0, -35 * Time.deltaTime, 0);
 		if (transform.position.x > destroyAtPos)
 			Destroy (this.gameObject);
 	}
 
 	void OnCollisionEnter(Collision col) {
 		if (col.gameObject.name == "Ball") {
+			gameManager.setMiniGame1 (0);
+
 			GameObject instance = Instantiate (ui);
 			instance.SetActive(true);
 
@@ -60,6 +63,6 @@ public class enemy : MonoBehaviour {
 	}
 
 	void switchScene() {
-		SceneManager.LoadScene ("scene");
+		gameManager.loadNewLevel(gameManager.getLastLevel());
 	}
 }

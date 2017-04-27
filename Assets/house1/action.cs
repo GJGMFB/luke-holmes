@@ -27,7 +27,7 @@ public class action : MonoBehaviour {
 				}
 			} else if (loadScene) {
 				if (Input.GetKeyDown (KeyCode.Space)) {
-					SceneManager.LoadScene (scene);
+					gameManager.loadNewLevel(scene);
 				}
 			}
 		}

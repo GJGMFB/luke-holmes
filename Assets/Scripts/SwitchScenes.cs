@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SwitchScenes : MonoBehaviour {
+	public string scene;
 
 	// Use this for initialization
 	void Start () {
@@ -12,14 +13,14 @@ public class SwitchScenes : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown ("space")) {
-			SceneManager.LoadScene ("minigame1");
+		if (Input.GetKeyDown (KeyCode.Escape)) {
+			gameManager.loadNewLevel(scene);
 		}
 	}
 
-	void OnTriggerEnter(Collider other){
-		if(other.CompareTag("Player")){
-			SceneManager.LoadScene("minigame1");
-		}
-	}
+	/*void OnTriggerEnter(Collider other){
+		SceneManager.LoadScene(scene);
+	} */
+
+
 }

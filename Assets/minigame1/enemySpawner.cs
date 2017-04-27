@@ -28,6 +28,7 @@ public class enemySpawner : MonoBehaviour {
 	void spawnEnemy() {
 		GameObject instance = Instantiate (enemy);
 		instance.name = "enemy";
+		instance.transform.localScale = new Vector3 (0.8f, 1f, 0.8f);
 		var script = instance.GetComponent<enemy>(); // enemy is the name of the script enemy.cs
 		script.destroyAtPos = destroyAfterPos;
 		script.ui = gameOverText;

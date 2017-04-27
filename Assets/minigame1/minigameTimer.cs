@@ -16,6 +16,6 @@ public class minigameTimer : MonoBehaviour {
 	}
 
 	void loadScene() {
-		SceneManager.LoadScene ("scene");
+		gameManager.loadNewLevel("scene");
 	}
 }
