@@ -11,4 +11,4 @@ Janelle Cueto
 [Design document on GitHub](/LukeHolmesDesignDocument.docx)
 
 ## Demo
-[Youtube demo](https://www.youtube.com/watch?v=V1lAxbi8HX0)
+[Demo video on YouTube](https://www.youtube.com/watch?v=V1lAxbi8HX0)
