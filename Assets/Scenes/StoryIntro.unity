@@ -805,8 +805,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.8
-  m_Text: It's a seemingly normal day in the city ... until Luke Holmes is squashed
-    by a unknown virus falling from the sky. Intro cinematic should replace this.
+  m_Text: 'It''s a seemingly normal day in the city. Luke Holmes investigates an uproar
+    in town about the new kid in town: a big red dude. And he gets a call from a friend
+    at the bar...'
 --- !u!222 &2001334929
 CanvasRenderer:
   m_ObjectHideFlags: 0
