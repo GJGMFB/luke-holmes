@@ -8,7 +8,16 @@ Daia Elsalaymeh\
 Janelle Cueto
 
 ## Description
-A 3D point-and-click adventure & puzzle game geared towards children roughly between 8 to 14. Partly inspired by Osmosis Jones, a dangerous virus named Marberg has infected the city and only private investigator, Luke Holmes, can put a stop to it. Discover clues to Marberg's whereabouts by playing mini-games and solving puzzles to save Luke's city.
+A 3D point-and-click adventure & puzzle game geared towards children roughly between 8 to 14. Partly inspired by Osmosis Jones, a dangerous virus named Marberg has infected the city and only private investigator, Luke Holmes, can put a stop to it. Discover clues to Marberg's whereabouts by playing mini-games and solving puzzles (all while set to a jazzy soundtrack) to save Luke's city.
+
+## Screenshots
+![](/screenshots/Luke%20Holmes%206_6_2017%202_41_02%20AM.jpg)
+![](/screenshots/Luke%20Holmes%206_6_2017%202_48_55%20AM.jpg)
+![](/screenshots/Luke%20Holmes%206_6_2017%202_41_39%20AM.jpg)
+![](/screenshots/Luke%20Holmes%206_6_2017%202_47_40%20AM.jpg)
+![](/screenshots/Luke%20Holmes%206_6_2017%202_45_56%20AM.jpg)
+![](/screenshots/Luke%20Holmes%206_6_2017%202_46_35%20AM.jpg)
+![](/screenshots/Luke%20Holmes%206_6_2017%202_50_05%20AM.jpg)
 
 ## Art Credits
 Dennis Leancu: Overall vision, textures, models, architecture, environment\
