@@ -1,6 +1,6 @@
 # Luke Holmes
 U. of Illinois, Chicago\
-CS426, Spring 2017
+CS426, Video Game Design and Implementation, Spring 2017
 
 ## Team
 Dennis Aurelian Leancu\
@@ -9,6 +9,11 @@ Janelle Cueto
 
 ## Description
 A 3D point-and-click adventure & puzzle game geared towards children roughly between 8 to 14. Partly inspired by Osmosis Jones, a dangerous virus named Marberg has infected the city and only private investigator, Luke Holmes, can put a stop to it. Discover clues to Marberg's whereabouts by playing mini-games and solving puzzles (all while set to a jazzy soundtrack) to save Luke's city.
+
+## Tools & Programs Used
+- Unity
+- Blender
+- Adobe Photoshop
 
 ## Screenshots
 ![](/screenshots/Luke%20Holmes%206_6_2017%202_41_02%20AM.jpg)
@@ -20,6 +25,7 @@ A 3D point-and-click adventure & puzzle game geared towards children roughly bet
 ![](/screenshots/Luke%20Holmes%206_6_2017%202_50_05%20AM.jpg)
 
 ## Art Credits
+Luke Holmes is proud to feature original artwork and models.\
 Dennis Leancu: Overall vision, textures, models, architecture, environment\
 Janelle Cueto: Luke Holmes model & textures, Marberg model & textures, NPC model & textures\
 Other art credits can be found in the [design document](/LukeHolmesDesignDocument.docx)
